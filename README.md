@@ -14,7 +14,7 @@ This repository contains three files.
 
 # MOTIVATION 
 
-SQL Zoo is great and thank you Chris Bruehl (an instructor at Metis Data Science and Machine Learning Bootcamp) for referencing this during this. BUT its really nice to see ALL the data in front of you so you can see it's structure. So thats why I put it in a SQLlite database for easy querying. 
+SQL Zoo is great and thank you Chris Bruehl (an instructor at Metis Data Science and Machine Learning Bootcamp) for referencing this. BUT its really nice to see ALL the data in front of you so you can see it's structure. So thats why I put it in a SQLlite database for easy querying. 
 
 Hope this helps ! 
 
